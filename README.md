@@ -8,7 +8,7 @@ This project demonstrates native platform proficiency in **Google Analytics 4 (G
 
 The interactive dashboard evaluates marketing channel acquisition efficiency, user engagement quality, and e-commerce conversion performance across web traffic.
 
-* **Live Interactive Dashboard:** [Insert Your Looker Studio Share Link Here]
+* **Live Interactive Dashboard:** (https://datastudio.google.com/reporting/ea466e3d-bebd-4af1-8139-e747052ca74f)
 * **Data Source:** Live GA4 Demo Account (`GA4 - Google Merchandise Store`)
 
 ---
